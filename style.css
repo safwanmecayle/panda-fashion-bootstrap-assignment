@@ -1,0 +1,40 @@
+   
+   /* Top section */
+
+ .name-highlight{
+     color:orange;
+ }
+ .navbar-brand{
+    margin-bottom: auto;
+}
+.container.container header{
+    margin: 0;
+}
+.navbar-brand img{
+    margin-left: auto;
+    }
+    /* Middle part */
+
+ .div-top-second p {
+ text-align: justify;
+ }
+.panda-card .card {
+    border:0;
+}
+.panda-card img {
+    background-color:whitesmoke;
+}
+.panda-card-footer{
+     background-color: white;
+     border: 0;
+}
+.btn-primary{
+    border-radius: 15px;
+    text-decoration: white;
+    font-size: 20px;
+    height: 70px;
+}
+.panda-body-img img{
+    height:65px;
+}
+/* /Last part/Footer section */

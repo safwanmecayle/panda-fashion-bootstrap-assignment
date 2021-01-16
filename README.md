@@ -1,1 +1,1 @@
-# panda-fashion-bootstrap-assignment
+# penguin-fashion-bootstrap-assignment

@@ -1,40 +1,55 @@
-   
    /* Top section */
-
- .name-highlight{
-     color:orange;
- }
- .navbar-brand{
-    margin-bottom: auto;
-}
-.container.container header{
-    margin: 0;
-}
-.navbar-brand img{
-    margin-left: auto;
-    }
-    /* Middle part */
-
- .div-top-second p {
- text-align: justify;
- }
-.panda-card .card {
-    border:0;
-}
-.panda-card img {
-    background-color:whitesmoke;
-}
-.panda-card-footer{
-     background-color: white;
-     border: 0;
-}
-.btn-primary{
-    border-radius: 15px;
-    text-decoration: white;
-    font-size: 20px;
-    height: 70px;
-}
-.panda-body-img img{
-    height:65px;
-}
-/* /Last part/Footer section */
+   
+   .name-highlight {
+       color: orange;
+   }
+   
+   .navbar-brand {
+       margin-bottom: auto;
+   }
+   
+   .nav-item {
+       padding: 0px 20px;
+       font-size: 17px;
+   }
+   
+   .navbar-brand img {
+       margin-left: auto;
+   }
+   /* Middle part */
+   
+   main {
+       font-family: 'Roboto', sans-serif;
+       ;
+   }
+   
+   .panda-card-footer {
+       border: 0;
+   }
+   
+   .panda-card-footer img {
+       height: 30px;
+   }
+   
+   .btn-primary-rounded {
+       border-radius: 20px;
+       text-decoration: white;
+       font-size: 20px;
+       height: 50px;
+       background-color: peru;
+       padding: 3px;
+   }
+   
+   .btn-primary-rounded:hover {
+       background-color: cadetblue;
+   }
+   
+   .casual-shoes-part,
+   .formal-shoes-part {
+       color: orange;
+   }
+   
+   .img-resize-1 {
+       width: 100%;
+   }
+   /* /Last part/Footer section */
